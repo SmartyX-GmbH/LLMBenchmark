@@ -8,3 +8,5 @@ The LLM benchmark includes 33 Contexts (for 14.74 hours) and 21 questions in Typ
 2.	Type 2: Yes/no questions, which required a more straightforward response (10 questions).
 
 The audio files in here[https://drive.google.com/drive/folders/1TjPnGTq20uWb5twzvoLKcuxi3HlGums1?usp=drive_link]
+
+Each sample in the JSON file includes 1) an audio_path, which indicates the audio of the context, 2) the context, 3) Questions Type 1, and 4) Questions Type 2.
